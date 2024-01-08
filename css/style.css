@@ -168,4 +168,20 @@ img {
    .steps .container .col{
     width: 100%;
    }
- }
+
+   .why-us .container .row{
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 50px;
+   }
+  
+   .why-us .container .col-left{
+    width: 100%;
+   }
+
+   .why-us .container .col-right{
+    width: 100%;
+   }
+
+ } 
