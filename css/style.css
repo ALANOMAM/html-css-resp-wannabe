@@ -147,7 +147,7 @@ img {
 
  @media screen and (max-width: 480px){
 
-   .lessons .container .row{
+   .lessons .container .row{    /* parte sulle lezioni */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -158,7 +158,7 @@ img {
     width: 100%;
    }
    
-   .steps .container .row{
+   .steps .container .row{   /* parte sugli steps*/
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -169,7 +169,7 @@ img {
     width: 100%;
    }
 
-   .why-us .container .row{
+   .why-us .container .row{    /*parte di why-us*/
       display:flex;
       flex-direction: column;
       align-items: center;
