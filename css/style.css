@@ -151,6 +151,21 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 50px;
+   }
+
+   .lessons .container .col{
+    width: 100%;
    }
    
+   .steps .container .row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+   }
+
+   .steps .container .col{
+    width: 100%;
+   }
  }
